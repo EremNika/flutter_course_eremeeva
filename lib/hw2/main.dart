@@ -43,7 +43,6 @@ class SportCatalogApp extends StatelessWidget {
     );
   }
 }
-
 class CatalogScreen extends StatelessWidget {
   const CatalogScreen({super.key});
 
